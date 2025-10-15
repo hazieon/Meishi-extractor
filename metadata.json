@@ -1,0 +1,5 @@
+{
+  "name": "Business Card Extractor",
+  "description": "An application to extract email addresses, names, and LinkedIn profiles from images of business cards in bulk using Gemini.",
+  "requestFramePermissions": []
+}
