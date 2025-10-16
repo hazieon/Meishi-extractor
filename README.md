@@ -1,4 +1,4 @@
-Extract information from business cards in bulk from photo input. 
+Extract information from business cards in bulk from photo input.    
 Extract company names, email addresses, and other information in easy to copy and easy to download format 
 
 
